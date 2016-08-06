@@ -1,0 +1,26 @@
+_repo: Poems--1786--Volume-I._11054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Helen Maria
+    alias: Williams, Helena Maria
+    birthdate: 1762
+    deathdate: 1827
+    gutenberg_agent_id: '3815'
+    url: http://www.gutenberg.org/2009/agents/3815
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Maria_Williams
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcc 'PR'
+- GITenberg
+title: Poems (1786), Volume I.
+url: http://www.gutenberg.org/ebooks/11054
