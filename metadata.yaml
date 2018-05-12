@@ -1,5 +1,8 @@
 _repo: Poems--1786--Volume-I._11054
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Williams, Helen Maria
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3815
     wikipedia: http://en.wikipedia.org/wiki/Helen_Maria_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11054#Poems--1786--Volume-I.
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
